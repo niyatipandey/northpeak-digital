@@ -282,7 +282,7 @@ h1 {
   border-radius: 2px;
 }
 
-#services ,#pricing , #results , #contact{
+#services ,#pricing , #testimonals , #contact{
   padding: 6rem 5%;
   padding-top: 8rem
 }
@@ -730,7 +730,7 @@ footer {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  #results .services-grid {
+  #testimonals .services-grid {
     grid-template-columns: 1fr;
   }
 
@@ -777,7 +777,7 @@ footer {
   }
 
   #services,
-  #results,
+  #testimonals,
   #pricing {
     padding: 4rem 5%;
   }
